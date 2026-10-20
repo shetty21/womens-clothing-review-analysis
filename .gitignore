@@ -1,0 +1,4 @@
+# Source presentations are private portfolio reference material.
+*.ppt
+*.pptx
+.DS_Store
